@@ -34,5 +34,10 @@
             android:layout_marginLeft="10dp"
             android:layout_marginRight="10dp"
             android:text="Button" />
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chip4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
